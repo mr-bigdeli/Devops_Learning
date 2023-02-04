@@ -1,0 +1,9 @@
+- devops circle
+
+```
+CI(plan > code > build > test > release) > CD(deploy > operate > monitor > feedback) > plan > ....
+```
+* requirements for impelimenting devops in an organization:
+1. agile
+2. lean culture
+3. automation
