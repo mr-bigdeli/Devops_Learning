@@ -1,4 +1,4 @@
-# Devops_Learning (DWS)
+# Devops_Learning
 - [ ] [Hello DevOps](https://github.com/mohrez021/Devops_Learning/wiki/Hello-devops)
 - [ ] [Bash-script](https://github.com/mohrez021/Devops_Learning/wiki/bash-script)
 - [ ] Git
